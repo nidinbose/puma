@@ -1,0 +1,318 @@
+.maindiv,body{
+    margin: 0px;
+}
+.pumatopnav{
+    background-color: rgb(150, 123, 100);
+   height: 50px ;
+    /* margin:-10px; */
+    color: white ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.font{
+    font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: small;
+}
+.puma2nav{
+    background-color:black;
+    margin: 00px;
+    height: 90px;
+}
+.puma2nav{
+    width: 100%;
+    display: flex;
+    align-items:center;
+    /* justify-content: space-evenly; */
+
+    
+}
+
+.nav2{
+    
+    color: white;
+    display: flex;
+    width: 750px;
+    justify-content: space-evenly;
+
+
+}
+
+.class1{
+   font-weight:700;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+.logo{
+    padding-left: 20%;
+}
+
+.nav3 div button{
+    width: 150px;
+    height: 36px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+    border-width: 1px;
+}
+
+ .nav3{
+    width: 800px;
+
+    /* font-weight: 700; */
+    display: flex;   
+    align-items:flex-end;
+    background-color: rgb(35, 67, 95);  
+    justify-content:space-between;
+
+    /* width: 300px;
+    height: 70px; */
+    
+ } 
+.icons{
+    display: flex;
+    /* align-items: flex-end;
+    justify-content:space-between;
+    width: 300px;
+    height: 30px;
+    padding-left:40px;
+    flex-direction: flex-end; */
+}
+.nav4{
+    width:100%;
+    height: 70px;
+    background-color: rgba(213, 233, 243, 0.826);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text4th{
+    font-size: 15px;
+    font-weight:550;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.text4th1{
+    padding-left: 60px;
+    font-size: smaller;
+}
+
+.photo1{
+    position: relative;
+    width: 100%;
+    /* max-width: 400px; */
+    
+}
+.photo1 div img{
+    position: absolute;
+    
+    
+    
+   
+}
+.photo1 div button{
+    position: absolute;
+    margin-top: 508px;
+    width: 130px ;
+    height: 40px;
+    background-color: white;
+    color: black;
+    font-weight: 550;
+    border-color: white;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+    
+    
+   
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 300px;
+}
+.img2 div img{
+    /* width: 100%; */
+    margin-top: 36%;
+    /* height: 700px; */
+    
+}
+.img2{
+    position: relative;
+    width: 100%;
+}
+
+.box2 button{
+    position: absolute;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    font-weight:600;
+    height: 40px;
+    width: 130px;           
+}
+.box2{
+    margin-top: -350px;
+    margin-left: 1200px; 
+}
+ .text11{
+    color: rgb(174, 255, 53);
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 400px;
+    margin-left: 660px;
+    border-color: ;
+ } 
+ .font4a{
+    margin-left: 750px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+ } 
+ .img3 div img{
+    margin-top: 50px;
+    /* position: absolute; */
+    
+ }
+ .img3{
+    position: relative;
+ }
+ .box3 div button{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin-top: -130px;
+    margin-left: 750px;
+    font-family: sans-serif;
+    background-color: black;
+    border-color:rgb(19, 233, 236);
+    color: rgb(6, 230, 92);
+ }
+ .poster1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 80px;
+ }
+ .po1{
+    margin-left: 45px;
+ }
+ .po2{
+    margin-right: 45px;
+ }
+ .slide1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    height: 70%;
+ }
+.poster4{
+    margin-top: 70px;
+    position: relative;
+}
+.btn1 div button{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 1050px;
+    width: 170px;
+    height: 50px;
+    background-color: rgba(246, 252, 249, 0.783);
+    border-color: white;
+    font-weight: 700;
+    color: rgb(35, 138, 90);
+
+
+}
+.vid1{
+    margin-top: 80px;
+}
+.img5{
+    margin-top: 60px;
+    position: relative;
+}
+.img5 div img{
+    position: absolute
+}
+.b4 div button{
+    position: absolute;
+    text-align: center;
+    margin-top:330px;
+    margin-left: 1300px;
+    font-weight: 700;
+    width: 200px;
+    height: 70px;
+}
+.img7 {
+    position: relative;
+
+}
+.btn7 div button{
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 750px;
+    width: 190px;
+    height: 50px;
+    border-color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    
+   
+}
+.btn8 div button{
+
+      border-color: rgb(0, 255, 115);
+      color: rgb(14, 236, 110);
+      position: absolute; 
+      margin-top:-100px;
+      width: 200px;
+      height: 50px; 
+}
+
+.text55{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    font-size: 70px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(43, 233, 131, 0.916);
+    border-color: rgb(65, 236, 188);
+    font-weight: 700;
+    background-color: white;
+    font-size: 30px;
+
+}
+
+.img9 div img{
+    position: relative;
+
+}
+.btn12 div button{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 1350px;
+    width: 230px;
+    height: 60px;
+    background-color: black;
+    font-weight: 600;
+    border-color: black;
+    color: white;
+}
+.a0{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    line-height: 30px;
+    width: 1650px;
+    
+}
