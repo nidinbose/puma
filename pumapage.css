@@ -90,14 +90,14 @@
     justify-content: center;
 }
 .text4th{
-    font-size: 15px;
+    font-size: 1vw;
     font-weight:550;
    font-family: Arial, Helvetica, sans-serif;
 
 }
 .text4th1{
     padding-left: 60px;
-    font-size: smaller;
+    font-size: 0.9vw;
 }
 
 .photo1{
@@ -374,4 +374,41 @@
     margin: 3%;
     text-decoration: underline;
     
+}
+
+
+/* responsive */
+
+@media (max-width:1100px) {
+
+    .text4th{
+        font-size: 10px;
+    }
+    .text4th1{
+        font-size: 7px;
+    }
+ 
+}
+
+@media (max-width:700px){
+    .a0 {
+        font-size: 12px;
+        /* display: block; */
+    }
+    .u{
+        font-size: 12px;
+    }
+    
+    .font{
+        font-size: 9px;
+    }
+    .text4th{
+        font-size: 9px;
+    }
+    .text4th1{
+        font-size: 7px;
+        text-align: center;
+        margin-right: 3%;
+        
+    }
 }
